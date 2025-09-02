@@ -1,0 +1,10 @@
+discord:
+  botToken: "PUT_YOUR_TOKEN_HERE"
+
+domains:
+  danasty.ashesofheaven.co.uk:
+    channelId: "1403060253364588604"
+    userId: "184058325246148609"
+  katvenly.ashesofheaven.co.uk:
+    channelId: "1403060253364588604"
+    userId: "573732145349132288"

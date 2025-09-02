@@ -1,0 +1,15 @@
+name: DomainInviteTracker
+main: dev.sean.invitetracker.DomainInviteTracker
+version: 1.0.0
+api-version: '1.21'
+authors: [ 'Sean' ]
+description: Tracks unique joins per domain and posts/upgrades a Discord embed per promoter.
+commands:
+  tracker:
+    description: Reload DomainInviteTracker
+    usage: /tracker reload
+    permission: invitetracker.reload
+permissions:
+  invitetracker.reload:
+    description: Allows reloading DomainInviteTracker config and bot
+    default: op
