@@ -171,7 +171,7 @@ Treat your **Discord bot token** like a password. If it was ever exposed, **rese
 
 ## 📜 License
 
-MIT (or your preferred license).
+MIT
 
 ---
 
